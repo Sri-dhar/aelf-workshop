@@ -1,0 +1,12 @@
+/home/solomons/DOTNET/todo-app/src/bin/Debug/net6.0/ToDoApp.deps.json
+/home/solomons/DOTNET/todo-app/src/bin/Debug/net6.0/ToDoApp.dll
+/home/solomons/DOTNET/todo-app/src/bin/Debug/net6.0/ToDoApp.pdb
+/home/solomons/DOTNET/todo-app/src/obj/Debug/net6.0/ToDoApp.csproj.AssemblyReference.cache
+/home/solomons/DOTNET/todo-app/src/obj/Debug/net6.0/ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/solomons/DOTNET/todo-app/src/obj/Debug/net6.0/ToDoApp.AssemblyInfoInputs.cache
+/home/solomons/DOTNET/todo-app/src/obj/Debug/net6.0/ToDoApp.AssemblyInfo.cs
+/home/solomons/DOTNET/todo-app/src/obj/Debug/net6.0/ToDoApp.csproj.CoreCompileInputs.cache
+/home/solomons/DOTNET/todo-app/src/obj/Debug/net6.0/ToDoApp.dll
+/home/solomons/DOTNET/todo-app/src/obj/Debug/net6.0/refint/ToDoApp.dll
+/home/solomons/DOTNET/todo-app/src/obj/Debug/net6.0/ToDoApp.pdb
+/home/solomons/DOTNET/todo-app/src/obj/Debug/net6.0/ref/ToDoApp.dll
